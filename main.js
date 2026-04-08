@@ -1,9 +1,9 @@
 const CONFIG = {
   businessName: "Saraswati Dental Clinic",
   tagline: "Trusted Dental Care for the Whole Family",
-  phone: "+91-98765-XXXXX",
-  phoneTel: "+9198765XXXXX",
-  whatsapp: "9198765XXXXX",
+  phone: "+91-92353-98009",
+  phoneTel: "+919235398009",
+  whatsapp: "919235398009",
   whatsappMessage: "Hi, I'd like to book an appointment at Saraswati Dental Clinic.",
   address: "123, Hazratganj, Lucknow, Uttar Pradesh - 226001",
   email: "info@saraswatidental.in",
@@ -127,7 +127,7 @@ function initContactForm() {
         <div class="form-success">
           <div class="success-icon">✓</div>
           <h3>Thank you, ${name}!</h3>
-          <p>We've received your appointment request and will confirm your slot within 2 hours during clinic hours.</p>
+          <p>We've received your Form and will reply you within 2 hours during clinic hours.</p>
           <p style="margin-top:0.5rem;font-size:0.875rem;color:var(--text-muted)">For urgent needs, call us directly at <a href="tel:${CONFIG.phoneTel}" style="color:var(--teal)">${CONFIG.phone}</a></p>
         </div>`;
     }
