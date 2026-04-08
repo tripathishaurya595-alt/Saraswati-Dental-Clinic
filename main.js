@@ -1,9 +1,9 @@
 const CONFIG = {
   businessName: "Saraswati Dental Clinic",
   tagline: "Trusted Dental Care for the Whole Family",
-  phone: "+91-98765-43210",
-  phoneTel: "+919876543210",
-  whatsapp: "919876543210",
+  phone: "+91-98765-XXXXX",
+  phoneTel: "+9198765XXXXX",
+  whatsapp: "9198765XXXXX",
   whatsappMessage: "Hi, I'd like to book an appointment at Saraswati Dental Clinic.",
   address: "123, Hazratganj, Lucknow, Uttar Pradesh - 226001",
   email: "info@saraswatidental.in",
